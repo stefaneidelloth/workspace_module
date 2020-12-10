@@ -13,7 +13,7 @@ tries to load it as ES6 module. You can adapt the content of 'workspace.js' to y
 To install using pip:
 
 ```bash
-jupyter labextension install workspace_module
+jupyter labextension install @treezjs/workspace_module
 ```
 
 ## Development
@@ -43,6 +43,6 @@ Be sure to refresh your browser page after saving file changes to reload the ext
 ### Uninstall
 
 ```bash
-jupyter labextension uninstall workspace_module
+jupyter labextension uninstall @treezjs/workspace_module
 ```
 
