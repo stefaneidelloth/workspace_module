@@ -16,6 +16,8 @@ To install using pip:
 jupyter labextension install @treezjs/workspace_module
 ```
 
+If jupyter can not be found please make sure to include it in your system PATH variable.
+
 ## Development
 
 For a development install (requires npm version 4 or later), do the following in the repository directory:
@@ -29,7 +31,9 @@ npm install
 jupyter labextension install .
 ```
 
-You run JupyterLab in watch mode to watch for changes in the extension's source and automatically rebuild.
+If jupyter can not be found please make sure to include it in your system PATH variable.
+
+You can run JupyterLab in watch mode to watch for changes in the extension's source and automatically rebuild.
 
 ```bash
 # Run jupyterlab in watch mode
