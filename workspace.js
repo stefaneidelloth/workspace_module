@@ -1,2 +1,2 @@
 //alert('Hello from workspace.js');
-import './treezjs/src/treezJupyterLab.js';
+import './treezjs/jupyter_lab_extension/treezJupyterLab.js';
