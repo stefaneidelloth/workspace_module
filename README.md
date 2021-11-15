@@ -50,3 +50,10 @@ Be sure to refresh your browser page after saving file changes to reload the ext
 jupyter labextension uninstall @treezjs/workspace_module
 ```
 
+### nmp
+
+In order to publish this jupyterlab extension on npm run:
+```bash
+npm login
+npm publish
+```
