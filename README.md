@@ -54,6 +54,8 @@ jupyter labextension uninstall @treezjs/workspace_module
 
 In order to publish this jupyterlab extension on npm run:
 ```bash
-npm login
+npm login   
 npm publish
 ```
+
+(User treezjs)
