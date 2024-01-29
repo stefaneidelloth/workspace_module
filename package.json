@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@treezjs/workspace_module",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Looks for a JavaScript file 'workspace.js' in the workspace folder (=notebook-dir) and tries to load it as ES6 module. You can adapt the content of 'workspace.js' to your needs.",
   "author": "Stefan Eidelloth",
   "homepage": "https://github.com/stefaneidelloth/workspace_module",
@@ -20,9 +20,9 @@
   "scripts": {},
   "dependencies": {
     "jquery": "3.7.0",
-    "@jupyterlab/apputils": "3.5.1",
-    "@jupyterlab/filebrowser": "3.5.1",
-    "@jupyterlab/notebook": "3.5.1"
+    "@jupyterlab/apputils": "4.1.11",
+    "@jupyterlab/filebrowser": "4.0.11",
+    "@jupyterlab/notebook": "4.0.11"
   },
   "devDependencies": {}
 }
